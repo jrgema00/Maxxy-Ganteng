@@ -31,28 +31,28 @@ global.sig = 'https://instagram.com/kahfi_maker'
 global.syt = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
 global.sgh = 'https://github.com/Frezzy-XD'
 global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
-global.swa = 'wa.me/6285380166282'
+global.swa = 'wa.me/6281263782783'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085380166282'
+global.pdana = ''
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '085295374964'
-global.ppulsa2 = '085295374964'
+global.ppulsa = ''
+global.ppulsa2 = '081263782783'
 global.psaweria = 'https://saweria.co/MaxxyBotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓'
-global.nameown = 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
+global.nomorbot = '6281263782783'
+global.nomorown = '6281263782783'
+global.namebot = 'ʏᴛ mas ʙᴏᴛᴢ✓'
+global.nameown = 'ᴋbitɪ ᴍᴀᴋᴇʀ✓'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285380166282', 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓', 'true']
+  ['6281263782783', 'mastr ᴍᴀᴋᴇʀ✓', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,9 +102,9 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ | By ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓' //Main Watermark
-global.wm2 = 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.wm3 = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ | By ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
+global.wm = 'ʏᴛ YES ʙᴏᴛᴢ✓ | By ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓' //Main Watermark
+global.wm2 = 'PUTRA ᴍᴀᴋᴇʀ✓'
+global.wm3 = 'GEMA ʙᴏᴛᴢ✓ | By ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ | ʙʏ ${global.nameown}`
